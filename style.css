@@ -819,9 +819,9 @@ body:hover .cursor-glow {
     *,
     *::before,
     *::after {
-        animation-duration: 0.0001ms !important;
+        animation-duration: 0.000001ms !important;
         animation-iteration-count: 1 !important;
-        transition-duration: 0.0001ms !important;
+        transition-duration: 0.000001ms !important;
     }
 }
 
