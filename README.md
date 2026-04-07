@@ -39,7 +39,7 @@ A modern, interactive personal portfolio website showcasing social media links, 
 
 No additional dependencies or build tools required - it's a pure static website.
 
-## 🌐 Live Demo
+## 🌐 Portfolie website
 
 Visit the live portfolio: [aadityanaharjain.online](https://aadityanaharjain.online)
 
